@@ -1,0 +1,7 @@
+{
+  "log_level": "INFO",
+  "log_format": "%(asctime)s - [%(levelname)s] - [%(name)s] - %(message)s",
+  "date_format": "%Y-%m-%d %H:%M:%S",
+  "invalid_records_log_file": "output_reports/invalid_records.log",
+  "app_log_file": "output_reports/app.log"
+}
